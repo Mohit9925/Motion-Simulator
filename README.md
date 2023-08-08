@@ -1,4 +1,4 @@
-# Physics Simulator 🚀
+# Motion Simulator🚀
 ## Using Pygame and pymunk 🎯
 
 
