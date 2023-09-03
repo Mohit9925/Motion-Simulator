@@ -28,3 +28,4 @@ You can install Pygame and Pymunk using pip:
 ```shell
 pip install pygame
 pip install pymunk
+pip install pygame_gui
